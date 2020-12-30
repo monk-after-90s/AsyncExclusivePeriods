@@ -7,4 +7,4 @@ So now not only can you get the exact period, but also await inside the period, 
 the object enters the period and await time when the object exits the period.
 
 Remember to distribute different periods for one object. 
-## This repository has been inherited by https://github.com/monk-after-90s/AsyncGear.
+## This repository has been inherited by https://pypi.org/project/AsyncGear/.
